@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Shyam's Website"
+title                    : "Shyam Krishna"
 title_separator          : "-"
-name                     : &name "Shyam's Website"
+name                     : &name "Shyam"
 description              : &description "personal description"
 url                      : https://shyamksateesh.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Shyam K Sateesh"
   pronouns         : "he/him/his"  
-  bio              : "CSE Senior, with a keen interest towards AI/ML"
+  bio              : "CSE Senior, with an interest towards AI/ML"
   location         : "Bengaluru, IN"
   employer         : "PES University"
   uri              : # URL
