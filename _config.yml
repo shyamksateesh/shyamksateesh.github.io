@@ -32,8 +32,8 @@ author:
   email            : "shyamksateesh@gmail.com" 
 
   # Academic websites
-  arxiv            : "https://arxiv.org/search/cs?searchtype=author&query=Sateesh,+S+K"
   googlescholar    : "https://scholar.google.com/citations?user=2yxe-NgAAAAJ&hl=en"
+  arxiv            : "https://arxiv.org/search/cs?searchtype=author&query=Sateesh,+S+K"
   impactstory      : # URL
   orcid            : # URL
   semantic         : # URL
