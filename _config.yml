@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
-title                    : "Shyam's Portfolio"
+site_theme               : "dark"
+title                    : "Shyam's Website"
 title_separator          : "-"
 name                     : &name "Shyam's Website"
 description              : &description "personal description"
